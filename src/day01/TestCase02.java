@@ -5,5 +5,6 @@ public class TestCase02 {
 
         System.out.println("Test Test");
 
+        System.out.println("Test");
     }
 }
